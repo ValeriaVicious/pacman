@@ -1,43 +1,52 @@
 fileFormatVersion: 2
-guid: 55772d059d8dbd84ba21ccd27d27ee60
+guid: 9ccd0214e620d8c4cb0d5fa3e0023402
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6679698536114150705
-    second: pacman_0
+      213: -3219136060905150013
+    second: banner-151700_1280_0
   - first:
-      213: -6846246853087037126
-    second: pacman_1
+      213: 47144535307582494
+    second: banner-151700_1280_1
   - first:
-      213: -343595675399140622
-    second: pacman_2
+      213: 2821152285048900265
+    second: banner-151700_1280_2
   - first:
-      213: -4576091372461162260
-    second: pacman_3
+      213: -7870747087809663205
+    second: banner-151700_1280_3
   - first:
-      213: 469561110914596722
-    second: pacman_4
+      213: -442472577162452542
+    second: banner-151700_1280_4
   - first:
-      213: 1233117339249576371
-    second: pacman_5
+      213: -737010846838703721
+    second: banner-151700_1280_5
   - first:
-      213: 5837186894641243381
-    second: pacman_6
+      213: -7304717638771954640
+    second: banner-151700_1280_6
   - first:
-      213: 7643592245220978941
-    second: pacman_7
+      213: 3118611471175212107
+    second: banner-151700_1280_7
   - first:
-      213: 811491971189859559
-    second: pacman_8
+      213: -2254354353399396929
+    second: banner-151700_1280_8
   - first:
-      213: 905349130636697944
-    second: pacman_9
+      213: -438599724879548378
+    second: banner-151700_1280_9
   - first:
-      213: -2389268959542402154
-    second: pacman_10
+      213: 4880550782115628024
+    second: banner-151700_1280_10
   - first:
-      213: -7286219196981311097
-    second: pacman_11
+      213: -6225742203695289585
+    second: banner-151700_1280_11
+  - first:
+      213: 873087074690978439
+    second: banner-151700_1280_12
+  - first:
+      213: -425942270911881565
+    second: banner-151700_1280_13
+  - first:
+      213: 7931836642956302915
+    second: banner-151700_1280_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -139,13 +148,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pacman_0
+      name: banner-151700_1280_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 16
+        x: 245
+        y: 1057
+        width: 239
+        height: 201
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13dd7c39d6e03bc50800000000000000
-      internalID: 6679698536114150705
+      spriteID: 3c9291eeec45353d0800000000000000
+      internalID: -3219136060905150013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pacman_1
+      name: banner-151700_1280_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
+        x: 517
+        y: 1043
+        width: 536
+        height: 215
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a397c1592ce3df0a0800000000000000
-      internalID: -6846246853087037126
+      spriteID: e1cfb1084bd77a000800000000000000
+      internalID: 47144535307582494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pacman_2
+      name: banner-151700_1280_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 16
+        x: 3
+        y: 822
+        width: 238
+        height: 224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +204,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fa497dbd8d4b3bf0800000000000000
-      internalID: -343595675399140622
+      spriteID: 9aa0f9f5e0fb62720800000000000000
+      internalID: 2821152285048900265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pacman_3
+      name: banner-151700_1280_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
+        x: 251
+        y: 832
+        width: 241
+        height: 204
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +225,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce009b454257e70c0800000000000000
-      internalID: -4576091372461162260
+      spriteID: b1f2a22893d75c290800000000000000
+      internalID: -7870747087809663205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pacman_4
+      name: banner-151700_1280_4
       rect:
         serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
+        x: 510
+        y: 813
+        width: 233
+        height: 222
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +246,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27ff660b757348600800000000000000
-      internalID: 469561110914596722
+      spriteID: 2c1616f09850cd9f0800000000000000
+      internalID: -442472577162452542
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pacman_5
+      name: banner-151700_1280_5
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 16
-        height: 16
+        x: 760
+        y: 826
+        width: 225
+        height: 211
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +267,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b9885ccfa9ec1110800000000000000
-      internalID: 1233117339249576371
+      spriteID: 799b1962a8c95c5f0800000000000000
+      internalID: -737010846838703721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pacman_6
+      name: banner-151700_1280_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
+        x: 1011
+        y: 834
+        width: 236
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +288,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f428aecd8ad10150800000000000000
-      internalID: 5837186894641243381
+      spriteID: 03ca774720e60aa90800000000000000
+      internalID: -7304717638771954640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pacman_7
+      name: banner-151700_1280_7
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
+        x: 35
+        y: 653
+        width: 491
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +309,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df0b35846ae731a60800000000000000
-      internalID: 7643592245220978941
+      spriteID: b4c5bd32c98874b20800000000000000
+      internalID: 3118611471175212107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pacman_8
+      name: banner-151700_1280_8
       rect:
         serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
+        x: 657
+        y: 656
+        width: 543
+        height: 147
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,20 +330,104 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e46ad8f5aff24b00800000000000000
-      internalID: 811491971189859559
+      spriteID: fb506cfd8ace6b0e0800000000000000
+      internalID: -2254354353399396929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pacman_9
+      name: banner-151700_1280_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 409
+        width: 557
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62078ffbfd7c9e9f0800000000000000
+      internalID: -438599724879548378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner-151700_1280_10
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 419
+        width: 544
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3c14cf3133bb340800000000000000
+      internalID: 4880550782115628024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner-151700_1280_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 199
+        width: 640
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ba59d7378b999a0800000000000000
+      internalID: -6225742203695289585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner-151700_1280_12
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 209
+        width: 615
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782d0f09114dd1c00800000000000000
+      internalID: 873087074690978439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner-151700_1280_13
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 16
-        height: 16
+        width: 597
+        height: 184
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,20 +435,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8512f41dc32709c00800000000000000
-      internalID: 905349130636697944
+      spriteID: 3ae5977e2cfb61af0800000000000000
+      internalID: -425942270911881565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pacman_10
+      name: banner-151700_1280_14
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
+        x: 703
+        y: 15
+        width: 566
+        height: 174
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,29 +456,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 693ab994a8c97ded0800000000000000
-      internalID: -2389268959542402154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pacman_11
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7890c409e3622ea90800000000000000
-      internalID: -7286219196981311097
+      spriteID: 34a56dfe66b831e60800000000000000
+      internalID: 7931836642956302915
       vertices: []
       indices: 
       edges: []
